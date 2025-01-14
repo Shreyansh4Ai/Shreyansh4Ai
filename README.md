@@ -56,9 +56,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/shreyansh-kumar-sahu-7a51a8245/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/oye_shreyansh" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyansh4ai/shreyansh4ai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyansh4ai/shreyansh4ai/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shreyansh4ai/shreyansh4ai/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreyansh4Ai/Shreyansh4Ai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreyansh4Ai/Shreyansh4Ai/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shreyansh4Ai/Shreyansh4Ai/output/github-snake.svg" />
 </picture>
 
 <!-- <h2>❤ Support Me</h2>
