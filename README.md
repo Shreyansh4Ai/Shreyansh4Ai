@@ -3,8 +3,8 @@
 <p>👨🏼‍🎓 Currently studying <strong>Computer Science Engineering</strong> at <strong>UTD-CSVTU, Bhilai</strong> - Passionate about <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.<!-- <br>🛜 Cure--> <br>👨🏼‍💻 Working as a <strong> Graphic editor </strong>.
 
 
+![](https://komarev.com/ghpvc/?username=Shreyansh4Ai&color=green)
 
 
 </p> 
 -->
-![](https://komarev.com/ghpvc/?username=Shreyansh4Ai&color=green)
