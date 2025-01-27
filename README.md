@@ -7,4 +7,4 @@
 
 </p> 
 -->
-![](https://komarev.com/ghpvc/shreyansh4Ai&color=green)
+![](https://komarev.com/ghpvc/?username=Shreyansh4Ai&color=green)
