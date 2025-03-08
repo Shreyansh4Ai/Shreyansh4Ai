@@ -7,4 +7,6 @@
 
 
 </p> 
+ <a href="https://gitroll.io/profile/u1yXXHGAnNDZHfSjTgnKcfUyIGa43" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u1yXXHGAnNDZHfSjTgnKcfUyIGa43?theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="GitRoll Profile Badge"/></a>
+</div>
 -->
