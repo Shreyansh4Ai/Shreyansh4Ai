@@ -33,13 +33,9 @@
 <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/>
 </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://your-image-host-link.com/logo.png" alt="Canva" width="40" height="40"/>
-</a>
 
 
-
-<h3> OTHER PROFILES!</h3>
+<h3> OTHER PROFILES !</h3>
 
 <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
