@@ -33,13 +33,14 @@
 <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/>
 </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-  <img src="assets/pycharm-logo.svg" alt="PyCharm" width="40" height="40"/>
+
+<a href="https://github.com/Shreyansh4Ai/Python-for-Datascience">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter - Interactive notebook for data science and research" alt="Jupyter" width="40" height="40">
+</a>
+<a href="https://github.com/Shreyansh4Ai/Data-Visualization-using-python">
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab - Cloud-based Jupyter notebook environment" alt="Google Colab" width="40" height="40">
 </a>
 
-<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-  <img src="assets/jetbrains-logo.svg" alt="JetBrains" width="40" height="40"/>
-</a>
 
 
 
