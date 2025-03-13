@@ -33,6 +33,14 @@
 <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/>
 </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+  <img src="assets/pycharm-logo.svg" alt="PyCharm" width="40" height="40"/>
+</a>
+
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+  <img src="assets/jetbrains-logo.svg" alt="JetBrains" width="40" height="40"/>
+</a>
+
 
 
 <h3> OTHER PROFILES !</h3>
