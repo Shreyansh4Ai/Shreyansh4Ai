@@ -46,12 +46,14 @@
 
 <h3> OTHER PROFILES !</h3>
 
-<a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+<a href="https://www.instagram.com/Shreyansh4ai" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> 
 </a>
-<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
+
+<a href="https://www.linkedin.com/in/shreyansh-goswami-701039320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/> 
 </a>
+
 <a href="https://www.codechef.com/" target="_blank" rel="noreferrer">
   <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="40" height="40"/>
 </a>
