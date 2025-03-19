@@ -63,10 +63,9 @@
 <a href="https://telegram.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo_2019.svg" alt="Telegram" width="40" height="40"/>
 </a>
-
  <a href="https://www.hackerrank.com/"><img
             src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" title="HackerRank Profile"
-            height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
+            height=35 alt="HackerRank"></a> 
 
 
 
