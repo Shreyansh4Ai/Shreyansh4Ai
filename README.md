@@ -64,9 +64,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo_2019.svg" alt="Telegram" width="40" height="40"/>
 </a>
 
-<a href="https://www.hackerrank.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HackerRank_logo_2021.svg/1024px-HackerRank_logo_2021.svg.png" alt="HackerRank" width="40" height="40"/>
-</a>
+ <a href="https://www.hackerrank.com/"><img
+            src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" title="HackerRank Profile"
+            height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
 
 
 
