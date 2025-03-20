@@ -1,5 +1,5 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
-<h1> Hello World!👋, I'm Shreyansh <br> A Artificial Intelligence and cybersecurity Enthusiast  : </h1>
+<h1> Hello World!👋, I'm Shreyansh <br> a Artificial Intelligence and cybersecurity Enthusiast  : </h1>
 <p>👨🏼‍🎓 Currently studying <strong>Computer Science Engineering specialisation in artificial intelligence </strong> at <strong>UTD-CSVTU, Bhilai</strong> - Passionate about <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.<!-- <br>🛜 Cure--> <br>👨🏼‍💻 member @ <strong> programmers paradise</strong> Technical society<strong> AND </strong> </strong> founding member @ <strong> nextronix robotics club </strong> 
 <h2> MY ARMOURY</h2>
 <h3 align="left">Languages and Tools:</h3>
