@@ -63,6 +63,8 @@
  <a href="https://www.hackerrank.com/"><img
             src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" title="HackerRank Profile"
             height=35 alt="HackerRank"></a> 
+  <a href="https://codeforces.com/profile/shrey.001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shrey.001" height="30" width="40" /></a>
+</p>
 
 
 
