@@ -67,15 +67,13 @@
 </p>
 
 
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=Shreyansh4Ai&color=green)
 
 
 </p> 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Shreyansh4Ai&theme=matrix" alt="Shreyansh4Ai" /></a> 
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyansh4Ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
 
 -->
