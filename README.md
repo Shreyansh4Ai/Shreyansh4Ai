@@ -1,6 +1,6 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 <h1> Hello World!👋, I'm Shreyansh <br> a Artificial Intelligence and cybersecurity Enthusiast  : </h1>
-<p>👨🏼‍🎓 Currently studying <strong>Computer Science Engineering specialisation in artificial intelligence </strong> at <strong>UTD-CSVTU, Bhilai</strong> - Passionate about <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.<!-- <br>🛜 Cure--> <br>👨🏼‍💻 member @ <strong> programmers paradise</strong> Technical society<strong> AND </strong> </strong> founding member @ <strong> nextronix robotics club </strong> 
+<p>👨🏼‍🎓 Currently studying <strong>Computer Science Engineering specialisation in artificial intelligence </strong> at <strong>UTD-CSVTU, Bhilai</strong> - Passionate about <strong>Artificial Intelligence</strong> / <strong>Machine Learning</strong> And Competitive coding.<!-- <br>🛜 Cure--> <br>👨🏼‍💻 member @ <strong> programmers paradise</strong> Technical society<strong> AND </strong> </strong> founding member @ <strong> nextronix robotics club </strong> 
 <h2> MY ARMOURY</h2>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -24,9 +24,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-</a>
+
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </a>
@@ -44,7 +42,7 @@
 
 
 
-<h3> OTHER PROFILES !</h3>
+<h3> Socials !</h3>
 
 <a href="https://www.instagram.com/Shreyansh4ai" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> 
@@ -54,15 +52,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/> 
 </a>
 
-<a href="https://www.codechef.com/" target="_blank" rel="noreferrer">
-  <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="40" height="40"/>
-</a>
+
 <a href="mailto:your_email@example.com" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
 </a>
+<h3> Other Profiles!</h3>
+  
+<a href="https://www.codechef.com/" target="_blank" rel="noreferrer">
+  <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="40" height="40"/>
+</a>
  <a href="https://www.hackerrank.com/"><img
             src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" title="HackerRank Profile"
-            height=35 alt="HackerRank"></a> 
+            height=35 alt="HackerRank"></a>  
   <a href="https://codeforces.com/profile/shrey.001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shrey.001" height="30" width="40" /></a>
 </p>
 
