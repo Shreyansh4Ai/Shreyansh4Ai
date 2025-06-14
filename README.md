@@ -76,7 +76,13 @@
 </p> 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Shreyansh4Ai&theme=matrix" alt="Shreyansh4Ai" /></a> 
 </p>
+
+
+
+
+### 📈 **Activity Graph**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyansh4Ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh4Ai&theme=github-dark&area=true&hide_border=true" height="250" alt="Activity Graph" />
+</div>
 
 -->
