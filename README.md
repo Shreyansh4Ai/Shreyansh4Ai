@@ -60,7 +60,7 @@
 </a>
 <h3> Competitive profiles</h3>
   
-<a href="https://https://www.codechef.com/users/chef_shrey5050" target="_blank" rel="noreferrer">
+<a href="https://https://codechef.com/users/chef_shrey5050" target="_blank" rel="noreferrer">
   <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="40" height="40"/>
 </a>
  <a href="https://www.hackerrank.com/profile/shreyanshatpc"><img
