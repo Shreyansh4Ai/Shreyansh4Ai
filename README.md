@@ -69,7 +69,7 @@
   <a href="https://codeforces.com/profile/AlsoShrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shrey.001" height="30" width="40" /></a>
 </p>
 
-// views
+
 ![](https://komarev.com/ghpvc/?username=Shreyansh4Ai&color=green)
 
 
