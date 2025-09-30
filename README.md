@@ -39,9 +39,7 @@
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab - Cloud-based Jupyter notebook environment" alt="Google Colab" width="40" height="40">
 </a>
 
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-  <img src="https://freepngdesign.com/anaconda-logo-png-transparent-logo-28578.html" alt="Anaconda" width="40" height="40"/>
-</a>
+
 
 
 <h3> Socials !</h3>
