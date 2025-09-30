@@ -55,7 +55,7 @@
 </a>
 
 
-<a href="shreyanshatpc@gmail.com" target="_blank" rel="noreferrer">
+<a href="shreyansh.300012724058@csvtu.ac.in" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
 </a>
 <h3> Competitive profiles</h3>
@@ -69,7 +69,7 @@
   <a href="https://codeforces.com/profile/AlsoShrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shrey.001" height="30" width="40" /></a>
 </p>
 
-
+// views
 ![](https://komarev.com/ghpvc/?username=Shreyansh4Ai&color=green)
 
 
