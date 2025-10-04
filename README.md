@@ -43,6 +43,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV - Open Source Computer Vision Library" alt="OpenCV Logo" width="40" height="40">
 </a>
 
+<a href="https://www.mysql.com/">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" title="MySQL - The world's most popular open source database" alt="MySQL Logo" width="40" height="40">
+</a>
+
+
+
 
 <h3> Socials !</h3>
 
