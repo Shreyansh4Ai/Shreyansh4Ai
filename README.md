@@ -39,7 +39,9 @@
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab - Cloud-based Jupyter notebook environment" alt="Google Colab" width="40" height="40">
 </a>
 
-
+<a href="https://opencv.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV - Open Source Computer Vision Library" alt="OpenCV Logo" width="40" height="40">
+</a>
 
 
 <h3> Socials !</h3>
