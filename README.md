@@ -48,6 +48,17 @@
 </a>
 
 
+<a href="https://matplotlib.org/">
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" title="Matplotlib - Visualization with Python" alt="Matplotlib Logo" width="40" height="40">
+</a>
+<a href="https://numpy.org/">
+  <img src="https://numpy.org/images/logo.svg" title="NumPy - The fundamental package for scientific computing with Python" alt="NumPy Logo" width="40" height="40">
+</a>
+
+<a href="https://pandas.pydata.org/">
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas - Python Data Analysis Library" alt="Pandas Logo" width="40" height="40">
+</a>
+
 
 
 <h3> Socials !</h3>
