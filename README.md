@@ -91,9 +91,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=Shreyansh4Ai&color=green" alt="Profile Views"/>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreyansh4Ai&theme=matrix" alt="GitHub Trophies"/>
-</p>
+TROPHIES!
+<!--<img src="https://github-profile-trophy.vercel.app/?username=Shreyansh4Ai&theme=onestar&no-frame=false&no-bg=true&margin-w=4" />-->
+<img src="https://github-trophies.vercel.app/?username=Shreyansh4Ai&theme=onestar&no-frame=true" width="800"/>
+
+# ✨ Badges
+[![An image of @shreyansh4ai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyansh4ai)](https://holopin.io/@shreyansh4ai)
+
 
 <h3>📈 Activity Graph</h3>
 <div align="center">
