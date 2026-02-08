@@ -1,6 +1,6 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
-<h1>Hello World! 👋 I'm Shreyansh <br> An Artificial Intelligence and Cybersecurity Enthusiast</h1>
+<h1>Hi 👋 I'm Shreyansh <br> A POLYMATH intrested in Artificial Intelligence and Algorithms</h1>
 
 <p>
   👨🏼‍🎓 Currently pursuing <strong>Computer Science and Engineering</strong> with a specialization in
