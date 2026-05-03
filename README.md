@@ -62,6 +62,9 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas - Data Analysis Library" alt="Pandas Logo" width="40" height="40"/>
 </a>
+<a href="https://www.w3schools.com/r/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+</a>
 
 <h3>🌐 Socials</h3>
 
